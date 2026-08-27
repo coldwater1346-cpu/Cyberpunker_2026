@@ -17,6 +17,11 @@
 - 실행 환경: Windows PC
 - 장르: TPS 기반 방 탈출·잠입 액션
 
+## 프로젝트 자료
+
+- [게임 개발 포트폴리오 보기 (PDF)](docs/Game-Development-Portfolio-Lee-Chansu.pdf)
+- [게임 개발 포트폴리오 원본 다운로드 (PPTX, GIF 포함)](docs/Game-Development-Portfolio-Lee-Chansu.pptx)
+
 ## 개발 목표
 
 - 이동, 시점 제어, 적 감지와 전투 등 기본 시스템을 게임 기믹으로 연결
