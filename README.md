@@ -19,6 +19,9 @@
 
 ## 프로젝트 자료
 
+
+- [프로젝트 기획서](https://app.notion.com/p/3c9aa1b05e3e80de8428d95ba45ba444?source=copy_link)
+- [프로젝트 소개 및 플레이 영상](https://youtu.be/KYtJ9fC7hlI)
 - [게임 개발 포트폴리오 보기 (PDF)](docs/Game-Development-Portfolio-Lee-Chansu.pdf)
 - [게임 개발 포트폴리오 원본 다운로드 (PPTX, GIF 포함)](docs/Game-Development-Portfolio-Lee-Chansu.pptx)
 
